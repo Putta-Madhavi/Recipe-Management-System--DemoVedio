@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1X_DQklrAxuKy0Ylp5SFHsIzfSsg6WEnq/view?usp=shari
 
 ## A complete end-to-end demonstration including all modules and functionality
 
-https://drive.google.com/file/d/1y-P5u5pyzFAvZT3YM1tGcadMoRIcISUq/view?usp=sharing
+[https://drive.google.com/file/d/1y-P5u5pyzFAvZT3YM1tGcadMoRIcISUq/view?usp=sharing](https://drive.google.com/file/d/16b1fcSdWyB3Wjhs61bK5mYLLJuL0DmTV/view?usp=sharing)
 
 
 ## Project Workflow / Video Demonstration
@@ -46,7 +46,7 @@ This project boasts a rich set of features to enhance the user experience:
 Upon opening the project, you'll be greeted with a clear and easy-to-navigate interface. The main sections accessible are:
 
 * **Home:** The landing page providing an overview.
-* **Recipes:** Where all the delicious recipes reside (refer to `image_75d836.jpg`).
+* **Recipes:** Where all the delicious recipes reside.
 * **Add Recipes:** For users to contribute their own recipes.
 * **Contact:** For any inquiries or feedback.
 
@@ -54,14 +54,14 @@ Upon opening the project, you'll be greeted with a clear and easy-to-navigate in
 ![](https://raw.githubusercontent.com/Putta-Madhavi/recipeprojectimages/refs/heads/main/Screenshot%202025-07-01%20153543.png)
 Users can seamlessly manage their profiles and access personalized features through secure login and registration functionalities:
 
-* **Registration:** Create a new account with details like full name, email, password, cooking skill level, dietary preferences, allergies, and ingredients to avoid (refer to `image_75d474.png`).
-* **Login:** Existing users can log in using their email and password (refer to `image_75d43e.png`).
+* **Registration:** Create a new account with details like full name, email, password, cooking skill level, dietary preferences, allergies, and ingredients to avoid.
+* **Login:** Existing users can log in using their email and password.
 * **Dashboard Integration:** After successful login, the user's name is displayed on the dashboard or website, providing a personalized experience.
 
 ### 3. "What to Cook?" - Category-Based Recipe Discovery
 ![](https://raw.githubusercontent.com/Putta-Madhavi/recipeprojectimages/refs/heads/main/Screenshot%202025-07-01%20152809.png)
 
-Our "What to Cook?" section allows users to explore recipes based on 10 distinct categories, making it easy to find exactly what you're craving (refer to `image_763179.png`). Categories include:
+ "What to Cook?" section allows users to explore recipes based on 10 distinct categories, making it easy to find exactly what you're craving. Categories include:
 
 * All Types
 * Quick & Easy Meals
@@ -78,12 +78,12 @@ Our "What to Cook?" section allows users to explore recipes based on 10 distinct
 ![](https://github.com/Putta-Madhavi/recipeprojectimages/blob/main/Screenshot%202025-07-01%20154011.png)
 Find the perfect recipe with our powerful search and filtering options:
 
-* **General Search:** Utilize the search bar to find recipes by keywords (refer to `image_7629b8.png`).
-* **Filter by Cuisine Type:** Narrow down results by specific cuisines (e.g., Indian, Italian).
-* **Filter by Meal Type:** Find recipes suitable for breakfast, lunch, dinner, or any other meal (refer to `image_75d836.jpg`).
-* **Filter by Cooking Time:** Specify a maximum cooking time to fit your schedule (refer to `image_75d836.jpg`).
-* **Dietary Requirements:** Easily filter recipes based on dietary needs such as vegetarian, vegan, gluten-free, etc. (refer to `image_75d836.jpg`).
-* **Ingredient Preferences:** Refine your search based on specific ingredients you want to include or avoid (refer to `image_75d836.jpg`).
+* **General Search:** Utilize the search bar to find recipes by keywords .
+* **Filter by Cuisine Type:** Narrow down results by specific cuisines .
+* **Filter by Meal Type:** Find recipes suitable for breakfast, lunch, dinner, or any other meal.
+* **Filter by Cooking Time:** Specify a maximum cooking time to fit your schedule .
+* **Dietary Requirements:** Easily filter recipes based on dietary needs such as vegetarian, vegan, gluten-free, etc.
+* **Ingredient Preferences:** Refine your search based on specific ingredients you want to include or avoid .
 
 ### 5. Add Your Own Recipes
 ![](https://raw.githubusercontent.com/Putta-Madhavi/recipeprojectimages/refs/heads/main/Screenshot%202025-07-01%20154535.png)
@@ -97,11 +97,10 @@ Share your culinary expertise with the community! Our "Add Recipe" feature allow
 * Category
 * Ingredients (comma-separated)
 * Step-by-step Instructions
-* Nutritional Info (optional)
-* Average Rating (optional)
+* Nutritional Info 
+* Average Rating 
 * Recipe Image URL
-    (refer to `image_75d3fc.png`)
-
+ 
 ### 6. Contact Us
 ![](https://raw.githubusercontent.com/Putta-Madhavi/recipeprojectimages/refs/heads/main/Screenshot%202025-07-01%20154735.png)
 
@@ -111,8 +110,7 @@ We value your feedback! The "Contact Us" section provides a straightforward form
 * Email
 * Subject
 * Message
-    (refer to `image_75d366.png`)
-  
+   
 ## Running the Project Locally
 
 Follow these steps to set up and run the Recipe Hub on your local machine.
@@ -124,8 +122,8 @@ Ensure you have the following installed:
 * **Java JDK 17 or above**
 * **Spring Boot Install**
 * **MySQL server running** (with a database created for the project)
-* **Code editor** (e.g., VS Code)
-* **Postman** (for API testing)
+* **Code editor** 
+* **Postman** 
 
 ### Step 2: Backend Setup (Spring Boot)
 
