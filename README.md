@@ -84,6 +84,9 @@ Find the perfect recipe with our powerful search and filtering options:
 * **Filter by Cooking Time:** Specify a maximum cooking time to fit your schedule .
 * **Dietary Requirements:** Easily filter recipes based on dietary needs such as vegetarian, vegan, gluten-free, etc.
 * **Ingredient Preferences:** Refine your search based on specific ingredients you want to include or avoid .
+* **View Complete Recipe:** Access detailed instructions and full ingredient lists for any selected recipe.
+* **Rate Recipes:** Share your experience by rating recipes on a scale of 1 to 5 stars.
+* **Send Reviews:** Leave comments or feedback on recipes to help other users.
 
 ### 5. Add Your Own Recipes
 ![](https://raw.githubusercontent.com/Putta-Madhavi/recipeprojectimages/refs/heads/main/Screenshot%202025-07-01%20154535.png)
