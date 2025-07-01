@@ -2,7 +2,7 @@
 
 ## 🔗 Live Project Link
 
- [Click here to view the live Recipe Management System](https://putta-madhavi.github.io/Recipe-Management-System--Frontend/index.html)
+ [Click here to view the live Recipe Management System](https://drive.google.com/file/d/1X_DQklrAxuKy0Ylp5SFHsIzfSsg6WEnq/view?usp=sharing)
 
 
 ![Mobile View - Hero Section and Search](https://raw.githubusercontent.com/Putta-Madhavi/recipeprojectimages/refs/heads/main/Screenshot%202025-06-30%20142354.png)
