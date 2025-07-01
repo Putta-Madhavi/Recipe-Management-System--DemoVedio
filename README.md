@@ -14,14 +14,16 @@ https://drive.google.com/file/d/1y-P5u5pyzFAvZT3YM1tGcadMoRIcISUq/view?usp=shari
 
 ## Table of Contents
 
-- [Introduction](#introduction)   
+- [Introduction](#introduction)
 - [Features](#features)
-- [ User Authentication](##UserAuthentication (Login & Registration))
-- [What to Cook?](#WhattoCook?)
-- [Advanced Recipe Search & Filtering](#AdvancedRecipeSearch&Filtering)
-- [ Add Your Own Recipes](#AddYourOwnRecipes) 
-- [ Contact Us](#ContactUs)
-- [Running the Project Locally Conclusion](#RunningtheProjectLocallyConclusion)
+- [User Authentication (Login & Registration)](#2-user-authentication-login--registration)
+- ["What to Cook?" - Category-Based Recipe Discovery](#3-what-to-cook---category-based-recipe-discovery)
+- [Advanced Recipe Search & Filtering](#4-advanced-recipe-search--filtering)
+- [Add Your Own Recipes](#5-add-your-own-recipes)
+- [Contact Us](#6-contact-us)
+- [Running the Project Locally](#running-the-project-locally)
+- [Testing the Application](#testing-the-application)
+- [Conclusion](#conclusion)
 
 
 ## Introduction
