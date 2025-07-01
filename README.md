@@ -16,10 +16,13 @@ https://drive.google.com/file/d/1y-P5u5pyzFAvZT3YM1tGcadMoRIcISUq/view?usp=shari
 
 - [Introduction](#introduction)   
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+- [ User Authentication (Login & Registration) ](##User Authentication (Login & Registration))
+- [What to Cook?](#What to Cook? - Category-Based Recipe Discovery)
+- [Advanced Recipe Search & Filtering](#Advanced Recipe Search & Filtering)
+- [ Add Your Own Recipes](# Add Your Own Recipes) 
+- [ Contact Us](# Contact Us)
+- [Running the Project Locally Conclusion](# Running the Project Locally Conclusion)
+
 
 ## Introduction
 
@@ -34,9 +37,9 @@ external APIs. Performance is enhanced with basic caching techniques, and the en
 ## Features
 
 This project boasts a rich set of features to enhance the user experience:
-![Mobile View - Hero Section and Search](https://raw.githubusercontent.com/Putta-Madhavi/recipeprojectimages/refs/heads/main/Screenshot%202025-06-30%20142354.png)
 
 ### 1. Intuitive Navigation
+![Mobile View - Hero Section and Search](https://raw.githubusercontent.com/Putta-Madhavi/recipeprojectimages/refs/heads/main/Screenshot%202025-06-30%20142354.png)
 
 Upon opening the project, you'll be greeted with a clear and easy-to-navigate interface. The main sections accessible are:
 
