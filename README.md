@@ -16,7 +16,7 @@ https://drive.google.com/file/d/1y-P5u5pyzFAvZT3YM1tGcadMoRIcISUq/view?usp=shari
 
 - [Introduction](#introduction)   
 - [Features](#features)
-- [ User Authentication](##UserAuthentication)
+- [ User Authentication](##UserAuthentication (Login & Registration))
 - [What to Cook?](#WhattoCook?)
 - [Advanced Recipe Search & Filtering](#AdvancedRecipeSearch&Filtering)
 - [ Add Your Own Recipes](#AddYourOwnRecipes) 
