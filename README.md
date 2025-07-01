@@ -14,7 +14,7 @@ https://drive.google.com/file/d/1y-P5u5pyzFAvZT3YM1tGcadMoRIcISUq/view?usp=shari
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](#introduction)   
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Technologies Used](#technologies-used)
@@ -70,7 +70,7 @@ Our "What to Cook?" section allows users to explore recipes based on 10 distinct
 * Festive & Traditional Recipes
 
 ### 4. Advanced Recipe Search & Filtering
-
+![](https://github.com/Putta-Madhavi/recipeprojectimages/blob/main/Screenshot%202025-07-01%20154011.png)
 Find the perfect recipe with our powerful search and filtering options:
 
 * **General Search:** Utilize the search bar to find recipes by keywords (refer to `image_7629b8.png`).
@@ -81,6 +81,7 @@ Find the perfect recipe with our powerful search and filtering options:
 * **Ingredient Preferences:** Refine your search based on specific ingredients you want to include or avoid (refer to `image_75d836.jpg`).
 
 ### 5. Add Your Own Recipes
+![](https://raw.githubusercontent.com/Putta-Madhavi/recipeprojectimages/refs/heads/main/Screenshot%202025-07-01%20154535.png)
 
 Share your culinary expertise with the community! Our "Add Recipe" feature allows users to submit their own recipes with detailed information:
 
@@ -97,6 +98,7 @@ Share your culinary expertise with the community! Our "Add Recipe" feature allow
     (refer to `image_75d3fc.png`)
 
 ### 6. Contact Us
+![](https://raw.githubusercontent.com/Putta-Madhavi/recipeprojectimages/refs/heads/main/Screenshot%202025-07-01%20154735.png)
 
 We value your feedback! The "Contact Us" section provides a straightforward form for users to get in touch with us for any questions, suggestions, or support:
 
@@ -162,22 +164,6 @@ Ensure your frontend API calls are directed to the correct backend endpoint. The
 
 * Test user registration, recipe submission, search, and reviews directly from the frontend user interface.
 * Use Postman or your browser's developer tools to thoroughly test individual backend API endpoints and verify request/response cycles.
-
-
-## Screenshots
-
-Here are some screenshots demonstrating the application:
-
-
-![Mobile View - Hero Section and Search](https://raw.githubusercontent.com/Putta-Madhavi/recipeprojectimages/refs/heads/main/Screenshot%202025-06-30%20142354.png)
-
-
-![Tablet View - Recipe List and Filters](https://raw.githubusercontent.com/Putta-Madhavi/recipeprojectimages/refs/heads/main/Screenshot%202025-06-30%20142431.png)
-
-
-![Desktop View - Footer and Load More Recipes](https://raw.githubusercontent.com/Putta-Madhavi/recipeprojectimages/refs/heads/main/Screenshot%202025-06-30%20142521.png)
-
-
 
 ## Conclusion
 
