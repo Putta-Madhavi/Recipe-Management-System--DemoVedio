@@ -16,12 +16,12 @@ https://drive.google.com/file/d/1y-P5u5pyzFAvZT3YM1tGcadMoRIcISUq/view?usp=shari
 
 - [Introduction](#introduction)   
 - [Features](#features)
-- [ User Authentication (Login & Registration) ](##User Authentication (Login & Registration))
-- [What to Cook?](#What to Cook? - Category-Based Recipe Discovery)
-- [Advanced Recipe Search & Filtering](#Advanced Recipe Search & Filtering)
-- [ Add Your Own Recipes](# Add Your Own Recipes) 
-- [ Contact Us](# Contact Us)
-- [Running the Project Locally Conclusion](# Running the Project Locally Conclusion)
+- [ User Authentication](##UserAuthentication)
+- [What to Cook?](#WhattoCook?)
+- [Advanced Recipe Search & Filtering](#AdvancedRecipeSearch&Filtering)
+- [ Add Your Own Recipes](#AddYourOwnRecipes) 
+- [ Contact Us](#ContactUs)
+- [Running the Project Locally Conclusion](#RunningtheProjectLocallyConclusion)
 
 
 ## Introduction
