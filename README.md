@@ -155,7 +155,7 @@ Ensure you have the following installed:
 3.  **Run the Frontend Locally:**
     * Right-click on `index.html` in your VS Code explorer.
     * Select "Open with Live Server".
-    * The site will open in your default browser (e.g., `http://127.0.0.1:5500`).
+    * The site will open in your default browser.
 
 ### Step 4: Frontend-Backend Connection
 
