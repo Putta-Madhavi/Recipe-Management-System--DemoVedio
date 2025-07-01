@@ -10,9 +10,18 @@ https://drive.google.com/file/d/1X_DQklrAxuKy0Ylp5SFHsIzfSsg6WEnq/view?usp=shari
 https://drive.google.com/file/d/1y-P5u5pyzFAvZT3YM1tGcadMoRIcISUq/view?usp=sharing
 
 
-![Mobile View - Hero Section and Search](https://raw.githubusercontent.com/Putta-Madhavi/recipeprojectimages/refs/heads/main/Screenshot%202025-06-30%20142354.png)
+## Project Workflow / Video Demonstration
 
-# Description
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
 
 The Recipe Hub is a personalized recipe management system that allows users to register, create profiles, 
 and discover recipes based on their dietary preferences, allergies, ingredient availability, and cooking 
@@ -21,48 +30,82 @@ recipes they’ve tried.
 Originally built using Spring Boot and MySQL for the backend, the application uses HTML, CSS, and 
 JavaScript for the frontend. Recipe data is fetched from a structured database with optional support for 
 external APIs. Performance is enhanced with basic caching techniques, and the entire system is designed 
-to be modular and scalable. 
-
-## Table of Contents
-
-* [Features](#-features)
-* [Features](#-Description)
-* [Tech Stack](#-Tech-stack)
-* [Demo and Links](#-demo-and-links)
-* [ Running the Project Locally](#️-running-the-project-locally)
-    * [Step 1: Prerequisites](#step-1-prerequisites)
-    * [Step 2: Backend Setup (Spring Boot)](#step-2-backend-setup-spring-boot)
-    * [Step 3: Frontend Setup (HTML/CSS/JS)](#step-3-frontend-setup-htmlcssjs)
-    * [Step 4: Frontend-Backend Connection](#step-4-frontend-backend-connection)
-* [ Testing the Application](#-testing-the-application)
-* [ Screenshots](#-screenshots)
-* [ Conclusion](#-conclusion)
-
 
 ## Features
 
-* **User Registration and Login:** Securely register and log in to personal accounts. Users can specify dietary preferences (vegetarian, vegan, keto), allergies (gluten, dairy, nuts), cooking skill level, and preferred/avoided ingredients for personalized recipe recommendations.
-* **Search and Filtering:** Efficiently search for recipes using keywords and apply various filters such as cuisine (Indian, Chinese), meal type (breakfast, lunch, dinner), cooking time, and dietary preferences.
-* **Recipe Ratings and Reviews:** Rate recipes on a 1-5 star scale and provide written reviews to share feedback. Each recipe page displays the average rating and user reviews to aid in decision-making.
-* **Add Recipes:** Users can contribute their own recipes by providing a title, ingredients, instructions, and categorizing them with appropriate cuisine, meal type, and dietary tags.
-* **Recipe Database Integration:** All recipes are stored in a structured MySQL database, containing essential information like title, ingredients, instructions, cooking time, cuisine type, meal type, and dietary classification for efficient retrieval and display.
+This project boasts a rich set of features to enhance the user experience:
+![Mobile View - Hero Section and Search](https://raw.githubusercontent.com/Putta-Madhavi/recipeprojectimages/refs/heads/main/Screenshot%202025-06-30%20142354.png)
 
+### 1. Intuitive Navigation
 
-## Tech Stack
+Upon opening the project, you'll be greeted with a clear and easy-to-navigate interface. The main sections accessible are:
 
-* **Frontend:** HTML, CSS, JavaScript (for building the responsive and interactive user interface)
-* **Backend:** Spring Boot (Java) (for building RESTful APIs and handling business logic)
-* **Database:** MySQL (for storing user profiles, recipe data, ratings, and reviews)
-* **API Testing:** Postman (for testing API endpoints and verifying request/response cycles)
+* **Home:** The landing page providing an overview.
+* **Recipes:** Where all the delicious recipes reside (refer to `image_75d836.jpg`).
+* **Add Recipes:** For users to contribute their own recipes.
+* **Contact:** For any inquiries or feedback.
 
+### 2. User Authentication (Login & Registration)
+![](https://raw.githubusercontent.com/Putta-Madhavi/recipeprojectimages/refs/heads/main/Screenshot%202025-07-01%20153543.png)
+Users can seamlessly manage their profiles and access personalized features through secure login and registration functionalities:
 
-## Demo and Links
+* **Registration:** Create a new account with details like full name, email, password, cooking skill level, dietary preferences, allergies, and ingredients to avoid (refer to `image_75d474.png`).
+* **Login:** Existing users can log in using their email and password (refer to `image_75d43e.png`).
+* **Dashboard Integration:** After successful login, the user's name is displayed on the dashboard or website, providing a personalized experience.
 
-* **Demo Video:** [https://github.com/Putta-Madhavi/Recipe-Management-System--DemoVedio](https://github.com/Putta-Madhavi/Recipe-Management-System--DemoVedio)
-* **GitHub Repository - Frontend:** [https://github.com/Putta-Madhavi/Recipe-Management-System--Frontend/tree/master](https://github.com/Putta-Madhavi/Recipe-Management-System--Frontend/tree/master)
-* **GitHub Repository - Backend:** [https://github.2com/Putta-Madhavi/Recipe-Management-System--Backend/tree/master](https://github.com/Putta-Madhavi/Recipe-Management-System--Backend/tree/master)
+### 3. "What to Cook?" - Category-Based Recipe Discovery
+![](https://raw.githubusercontent.com/Putta-Madhavi/recipeprojectimages/refs/heads/main/Screenshot%202025-07-01%20152809.png)
 
+Our "What to Cook?" section allows users to explore recipes based on 10 distinct categories, making it easy to find exactly what you're craving (refer to `image_763179.png`). Categories include:
 
+* All Types
+* Quick & Easy Meals
+* Vegetarian & Vegan Delights
+* Healthy & Low-Carb Recipes
+* Desserts & Sweets
+* Breakfast & Brunch Specials
+* Street Food & Snacks
+* Main Courses & Dinner Ideas
+* Soups, Salads & Sides
+* Festive & Traditional Recipes
+
+### 4. Advanced Recipe Search & Filtering
+
+Find the perfect recipe with our powerful search and filtering options:
+
+* **General Search:** Utilize the search bar to find recipes by keywords (refer to `image_7629b8.png`).
+* **Filter by Cuisine Type:** Narrow down results by specific cuisines (e.g., Indian, Italian).
+* **Filter by Meal Type:** Find recipes suitable for breakfast, lunch, dinner, or any other meal (refer to `image_75d836.jpg`).
+* **Filter by Cooking Time:** Specify a maximum cooking time to fit your schedule (refer to `image_75d836.jpg`).
+* **Dietary Requirements:** Easily filter recipes based on dietary needs such as vegetarian, vegan, gluten-free, etc. (refer to `image_75d836.jpg`).
+* **Ingredient Preferences:** Refine your search based on specific ingredients you want to include or avoid (refer to `image_75d836.jpg`).
+
+### 5. Add Your Own Recipes
+
+Share your culinary expertise with the community! Our "Add Recipe" feature allows users to submit their own recipes with detailed information:
+
+* Recipe Name
+* Cuisine
+* Meal Type
+* Cooking Time (minutes)
+* Category
+* Ingredients (comma-separated)
+* Step-by-step Instructions
+* Nutritional Info (optional)
+* Average Rating (optional)
+* Recipe Image URL
+    (refer to `image_75d3fc.png`)
+
+### 6. Contact Us
+
+We value your feedback! The "Contact Us" section provides a straightforward form for users to get in touch with us for any questions, suggestions, or support:
+
+* Full Name
+* Email
+* Subject
+* Message
+    (refer to `image_75d366.png`)
+  
 ## Running the Project Locally
 
 Follow these steps to set up and run the Recipe Hub on your local machine.
