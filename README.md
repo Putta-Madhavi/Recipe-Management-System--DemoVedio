@@ -1,6 +1,10 @@
 # The Recipe Hub: Recipe Management System
 
 ## 🔗 Live Project Link
+A quick 1-2 minute walkthrough showing the main UI and key features
+[https://drive.google.com/file/d/1X_DQklrAxuKy0Ylp5SFHsIzfSsg6WEnq/view?usp=sharing) 
+A complete end-to-end demonstration including all modules and functionality
+[Full Project Video](https://drive.google.com/file/d/your_full_video_link/view) 
 
  [Click here to view the live Recipe Management System](https://drive.google.com/file/d/1X_DQklrAxuKy0Ylp5SFHsIzfSsg6WEnq/view?usp=sharing)
 
