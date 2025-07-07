@@ -2,9 +2,6 @@
 
 ## 🔗 Live Project Link
 
-## A quick 1-2 minute walkthrough showing the main UI and key features
-https://drive.google.com/file/d/1X_DQklrAxuKy0Ylp5SFHsIzfSsg6WEnq/view?usp=sharing
-
 ## A complete end-to-end demonstration including all modules and functionality
 
 [https://drive.google.com/file/d/1y-P5u5pyzFAvZT3YM1tGcadMoRIcISUq/view?usp=sharing](https://drive.google.com/file/d/16b1fcSdWyB3Wjhs61bK5mYLLJuL0DmTV/view?usp=sharing)
